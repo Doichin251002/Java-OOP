@@ -1,4 +1,4 @@
-package PointInRectangle;
+package pointInRectangle;
 
 public class PointUtil {
     public static Point parsePoint(String input) {

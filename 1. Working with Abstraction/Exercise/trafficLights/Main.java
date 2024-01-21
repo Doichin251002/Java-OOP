@@ -1,4 +1,4 @@
-package TrafficLights;
+package trafficLights;
 
 import java.util.Scanner;
 

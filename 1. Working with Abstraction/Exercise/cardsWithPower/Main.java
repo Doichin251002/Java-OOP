@@ -1,4 +1,4 @@
-package CardsWithPower;
+package cardsWithPower;
 
 import java.util.Scanner;
 

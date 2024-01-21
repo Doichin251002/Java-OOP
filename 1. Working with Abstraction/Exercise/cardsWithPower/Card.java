@@ -1,4 +1,4 @@
-package CardsWithPower;
+package cardsWithPower;
 
 public class Card {
     public enum Rank {

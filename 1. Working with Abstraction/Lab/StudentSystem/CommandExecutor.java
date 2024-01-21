@@ -1,4 +1,4 @@
-package StudentSystem;
+package studentSystem;
 
 public class CommandExecutor {
     private StudentSystem studentSystem;

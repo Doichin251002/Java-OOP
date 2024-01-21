@@ -1,4 +1,4 @@
-package PointInRectangle;
+package pointInRectangle;
 
 public class Rectangle {
     private Point bottomLeft;

@@ -1,4 +1,4 @@
-package PointInRectangle;
+package pointInRectangle;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package HotelReservation;
+package hotelReservation;
 
 public class PriceCalculator {
 
