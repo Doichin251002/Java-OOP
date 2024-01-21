@@ -1,4 +1,4 @@
-package Vehicles;
+package vehicles;
 
 import java.text.DecimalFormat;
 import java.util.LinkedHashMap;
